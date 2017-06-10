@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "hola mundo","<br>";
+        echo "Pasito paso por aquí.","<br>";
  
         define("constante","valor1");
         $a=78;
