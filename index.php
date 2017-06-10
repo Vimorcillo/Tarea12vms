@@ -18,6 +18,7 @@ and open the template in the editor.
         echo "valor de la constate: ",constante,"<br>";
         echo "valor de ", '$a=',"$a","<br>";
         
+       
         $color="rojo";
         $$color="blanco";
         echo "El color ",$color,$$color,"<br>";
