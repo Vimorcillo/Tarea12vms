@@ -19,13 +19,7 @@ and open the template in the editor.
         echo "valor de ", '$a=',"$a","<br>";
         
        
-        $color="rojo";
-        $$color="blanco";
-        echo "El color ",$color,$$color,"<br>";
-        $color="azul";
-        $$color="negro";
-        echo "El color ",$color,$$color,"<br>";
-        echo "fin";
+        echo "adios mundo";
         ?>
         
         <!--?php
